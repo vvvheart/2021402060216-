@@ -1,0 +1,390 @@
+     <table style="width: 100%;">
+            <tr><td colspan="8" style="font-size: 2em;font-weight:bold;text-align: center;">班级课表</td></tr>
+            <tr><td colspan="8" style="font-size: 1.5em;font-weight:bold;text-align: center;">2022-2023学年第一学期</td></tr>
+            <tr><td colspan="8">班级名称:20214020602&nbsp;&nbsp;&nbsp; 所属专业:人工智能&nbsp;&nbsp;&nbsp; 应选学分:36.5 &nbsp;&nbsp;&nbsp; 计划人数/实际人数: 19/23</td></tr>
+
+    </table>
+    <table width="100%" id="manualArrangeCourseTable" align="center" class="gridtable"  style="text-align:center" border="1">
+        <thead>
+            <tr>
+                <th style="background-color:#DEEDF7;" height="10px" width="">节次/周次</th>
+	                  <th style="background-color:#DEEDF7;">
+	                      <font size="2px">星期一</font>
+	                  </th>
+	                  <th style="background-color:#DEEDF7;">
+	                      <font size="2px">星期二</font>
+	                  </th>
+	                  <th style="background-color:#DEEDF7;">
+	                      <font size="2px">星期三</font>
+	                  </th>
+	                  <th style="background-color:#DEEDF7;">
+	                      <font size="2px">星期四</font>
+	                  </th>
+	                  <th style="background-color:#DEEDF7;">
+	                      <font size="2px">星期五</font>
+	                  </th>
+	                  <th style="background-color:#DEEDF7;">
+	                      <font size="2px">星期六</font>
+	                  </th>
+	                  <th style="background-color:#DEEDF7;">
+	                      <font size="2px">星期日</font>
+	                  </th>
+            </tr>
+        </thead>
+
+          <tr>
+              <td style="background-color:#EEFF00">
+                  <font size="2px"> 第1节</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+概率统计        (A400315.67)
+        (粟业平)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教106(成都校区))
+        
+                            </td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+大学英语Ⅲ        (A400203.15)
+        (胡莘)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教112(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+机器学习        (E402038.01)
+        (陈婷)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教307(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:#EEFF00">
+                  <font size="2px"> 第2节</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:#EEFF00">
+                  <font size="2px"> 第3节</font>
+              </td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+linux操作系统        (D402111.01)
+        (邓盈)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教409(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+体育Ⅲ        (A400403.28)
+        (徐传明)
+        <br style="mso-data-placement: same-cell">
+        (1-16  体育场（蓝区）(成都校区))
+        
+                            </td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+概率统计        (A400315.67)
+        (粟业平)
+        <br style="mso-data-placement: same-cell">
+        (1-15单  二教106(成都校区))
+        
+                            </td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+计算机组成原理（RISC-V）        (D402112.01)
+        (李玉莲)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教109(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:#EEFF00">
+                  <font size="2px"> 第4节</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:blue">
+                  <font size="2px"> 中午不排课1</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:blue">
+                  <font size="2px"> 中午不排课2</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:#33BB00">
+                  <font size="2px"> 第5节</font>
+              </td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+计算机组成原理（RISC-V）        (D402112.01)
+        (李玉莲)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教406(成都校区))
+        
+                            </td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+大学英语Ⅲ        (A400203.15)
+        (胡莘)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教112(成都校区))
+        
+                            </td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+机器学习        (E402038.01)
+        (陈婷)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教406(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+Java程序设计        (F402041.01)
+        (舒晓苓)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教309(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:#33BB00">
+                  <font size="2px"> 第6节</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:#33BB00">
+                  <font size="2px"> 第7节</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+Java程序设计        (F402041.01)
+        (舒晓苓)
+        <br style="mso-data-placement: same-cell">
+        (1-15单  二教213(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+毛泽东思想和中国特色社会主义理论体系概论        (A400114.26)
+        (杨雪)
+        <br style="mso-data-placement: same-cell">
+        (1-16  东教A408(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:#33BB00">
+                  <font size="2px"> 第8节</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:pink">
+                  <font size="2px"> 第9节</font>
+              </td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+PBL项目实践3/7        (G402003.01)
+        (陈东祥)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教409(成都校区))
+        
+                            </td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+PBL项目实践3/7        (G402003.01)
+        (陈东祥)
+        <br style="mso-data-placement: same-cell">
+        (1-16  二教409(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                            <td rowspan="2" style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+linux操作系统        (D402111.01)
+        (邓盈)
+        <br style="mso-data-placement: same-cell">
+        (2-16双  二教408(成都校区))
+        
+                            </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:pink">
+                  <font size="2px"> 第10节</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+          <tr>
+              <td style="background-color:pink">
+                  <font size="2px"> 第11节</font>
+              </td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td style="backGround-Color:#ffffff;font-size:12px"></td>
+          </tr>
+    <table>
+        <table style="border: #0b90f4 1px solid;width: 100%;border-collapse: collapse">
+            <tr>
+                <td colspan="8">各校区作息时间说明:</td>
+            </tr>
+                    <tr>
+                        <td style="border: #2e9ad0 1px solid" rowspan="2">成都校区</td>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第1节     08:15~
+    09:00
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第2节     09:05~
+    09:50
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第3节     10:05~
+    10:50
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第4节     10:55~
+    11:40
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">中午不排课1     12:15~
+    13:00
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">中午不排课2     13:05~
+    13:50
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第5节     14:00~
+    14:45
+</td>
+                    </tr><tr>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第6节     14:50~
+    15:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第7节     15:50~
+    16:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第8节     16:40~
+    17:25
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第9节     18:30~
+    19:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第10节     19:20~
+    20:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第11节     20:15~
+    21:00
+</td>
+                    
+                            <td style="border: #2e9ad0 1px solid"></td>
+                    </tr>
+                    <tr>
+                        <td style="border: #2e9ad0 1px solid" rowspan="2">什邡校区</td>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第1节     08:15~
+    09:00
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第2节     09:05~
+    09:50
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第3节     10:05~
+    10:50
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第4节     10:55~
+    11:40
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">中午不排课1     12:15~
+    13:00
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">中午不排课2     13:05~
+    13:50
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第5节     14:00~
+    14:45
+</td>
+                    </tr><tr>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第6节     14:50~
+    15:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第7节     15:50~
+    16:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第8节     16:40~
+    17:25
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第9节     18:30~
+    19:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第10节     19:20~
+    20:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第11节     20:15~
+    21:00
+</td>
+                    
+                            <td style="border: #2e9ad0 1px solid"></td>
+                    </tr>
+
+        </table>
+
